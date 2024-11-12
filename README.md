@@ -1,10 +1,10 @@
-Bu proje, blog yazım için oluşturuldu.
+Blog yazım için oluşturuldu.
 
-[Blog Yazım](https://omerkurgun.com/blog/javascript/electron-js-ile-masaustu-uygulama-gelistirme)
+[Electron.js ile Masaüstü Uygulama Geliştirme](https://omerkurgun.com/blog/javascript/electron-js-ile-masaustu-uygulama-gelistirme)
 
 ## Başlangıç
 
-Bu projeyi local'de çalıştırmak için aşağıdaki adımları takip edebilirsiniz.
+Projeyi local'de çalıştırmak için aşağıdaki adımları takip edebilirsiniz.
 
 ### Projeyi Çalıştırma
 
