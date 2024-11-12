@@ -1,3 +1,5 @@
+Bu proje, blog yazım için oluşturuldu.
+
 [Blog Yazım](https://omerkurgun.com/blog/javascript/electron-js-ile-masaustu-uygulama-gelistirme)
 
 # Electron JS Sample
@@ -52,5 +54,3 @@ Projeyi farklı platformlarda dağıtmak için aşağıdaki komutları kullanabi
     ```bash
     npm run package-macos
     ```
-
-Bu komutlar, Electron uygulamanızı belirli bir platform için paketleyecek ve `release` dizinine çıktı alacaktır.
