@@ -1,3 +1,5 @@
+[Blog Yazım](https://omerkurgun.com/blog/javascript/electron-js-ile-masaustu-uygulama-gelistirme)
+
 # Electron JS Sample
 
 Bu proje, Electron.js ile masaüstü uygulamaları oluşturmak için basit bir örnektir. `electronjssample` adlı bu uygulama, farklı platformlar için paketleme ve dağıtım sürecini göstermektedir.
