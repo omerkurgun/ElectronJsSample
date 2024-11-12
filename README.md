@@ -2,25 +2,15 @@ Bu proje, blog yazım için oluşturuldu.
 
 [Blog Yazım](https://omerkurgun.com/blog/javascript/electron-js-ile-masaustu-uygulama-gelistirme)
 
-# Electron JS Sample
-
-Bu proje, Electron.js ile masaüstü uygulamaları oluşturmak için basit bir örnektir. `electronjssample` adlı bu uygulama, farklı platformlar için paketleme ve dağıtım sürecini göstermektedir.
-
 ## Başlangıç
 
-Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları takip edebilirsiniz.
-
-### Gereksinimler
-
-- [Node.js](https://nodejs.org/) (en son sürümü önerilir)
-- [Electron](https://www.electronjs.org/) (proje ile uyumlu sürüm)
-- [Electron Packager](https://github.com/electron/electron-packager) (platforma özel paketleme için)
+Bu projeyi local'de çalıştırmak için aşağıdaki adımları takip edebilirsiniz.
 
 ### Projeyi Çalıştırma
 
 1. Bu repo'yu klonlayın:
     ```bash
-    git clone <repo-url>
+    git clone https://github.com/omerkurgun/ElectronJsSample.git
     cd electronjssample
     ```
 
@@ -34,7 +24,7 @@ Bu projeyi yerel ortamınızda çalıştırmak için aşağıdaki adımları tak
     npm start
     ```
 
-    Bu komut, Electron uygulamanızı başlatacaktır.
+    Bu komut, uygulamayı başlatacaktır.
 
 ## Platforma Özel Paketleme
 
